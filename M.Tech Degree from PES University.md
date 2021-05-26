@@ -201,3 +201,55 @@ A sequence, as the name suggests, is an ordered collection of several items. In 
 * Transformers
 
 The main objective of Transformers in NLP is to solve sequence-to-sequence tasks while simultaneously handling the long-range dependencies conveniently.
+
+
+
+### Module 4
+The last module in this M.Tech in Data Science and Machine Learning program will cover Deep Learning and Big Data.
+
+
+#### Deep Learning
+Deep Learning is a subset of Machine Learning and Artificial Intelligence. Artificial neural networks have emerged from the human brain’s inspiration to extract deep/high-level information from the raw input. This module will teach you all the concepts involved in Deep Learning.
+* Neural networks
+
+A Neural Network is a computing system in deep learning based on the biological neural network that makes up the human brain. In this module, you will learn all the neural networks’ applications.
+* Tensorflow and Keras
+
+TensorFlow is created by Google, which is an open-source library for numerical computation and wide-ranging machine learning. Keras is a powerful, open-source API designed to develop and evaluate deep learning models. This module will teach you how to implement TensorFlow and Keras from scratch. These libraries are widely used in Python for AIML.
+* Computer Vision, CNN and Applications
+
+In this module, we will learn how to process and work with images for Image classification using Neural Networks. Going beyond plain Neural Networks, we will also learn a more advanced architecture - Convolutional Neural Networks (CNN).
+* Transfer learning and Applications
+
+Transfer learning is a research problem in deep learning that focuses on storing knowledge gained while training one model and applying it to another model. This module will teach you the fundamentals of transfer learning and its applications.
+* Object detection, Siamese Networks, GANs
+
+Object detection is a computer vision technique in which a software system can detect, locate, and trace objects from a given image or video. Face detection is one of the examples of object detection. A Siamese neural network (sometimes called a twin neural network) is an artificial neural network that contains two or more identical subnetworks, which means they have the same configuration with the same parameters and weights. Generative adversarial networks, also known as GANs, are deep generative models. Like most generative models, they use a differential function represented by a neural network known as a Generator network. GANs also consist of another neural network called the Discriminator network. In this module, you will learn how to detect any object using deep learning algorithms; you will find the similarity of the inputs by comparing the feature vectors of subnetworks; you will be covered everything about GANs.
+
+
+#### Big Data
+The last topic in Module 4 of the M.Tech in Data Science and Machine Learning course is Big Data. Big Data is used for describing large and complex data sets - both structured and unstructured. It can be used for Fraud Protection, Machine Learning, and Product Development.
+* Hadoop
+
+Hadoop is a framework allowing the distributed processing of large data sets across a network of several computers with simple programming models. In this module, you will learn all the concepts of Apache Hadoop.
+* HDFS and Map Reduce
+
+HDFS stands for Hadoop Distributed File System, which is used to handle large data sets running on commodity hardware. It helps in storing large amounts of data sets and provides easier access. MapReduce is a software framework in Hadoop that allows you to write applications easily, which processes enormous amounts of data parallelly on large clusters (thousands of nodes) of commodity hardware in a reliable and fault-tolerant means. This module will teach you how to work with HDFS and MapReduce.
+* NoSQL and MongoDB
+
+NoSQL typically means a non-relational database with no SQL. It provides a mechanism to store data in a database in any format other than relational tables. MongoDB is a document-oriented NoSQL database that provides scalability and flexibility with querying and indexing. This module will teach you how to implement a NoSQL database using MongoDB.
+* Batch processing (Hive, HBase)
+
+Batch processing is a method to process large amounts of data within a specific time period. Hive is SQL-based, whereas HBase is NoSQL-based Hadoop technologies.
+* Real time processing (Spark, Kafka)
+
+Real-time processing is a method to process data within a short period of time that provides automated results. Spark is an open-source, unified analytics engine to process large amounts of data. Kafka is an open-source distributed event streaming platform, which numerous companies use for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications. This module will teach everything you need to know about real-time processing using Spark and Kafka.
+
+
+
+
+### Year 2
+#### Capstone Project
+#### M.Tech Thesis
+
+
