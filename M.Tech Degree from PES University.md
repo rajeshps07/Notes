@@ -5,7 +5,7 @@ Copied from [M.Tech Degree from PES University](https://www.greatlearning.in/mas
 In this M.Tech in Data Science and Machine Learning program in collaboration with PES University, Data Science and Machine Learning concepts will be covered in four modules in the first year, followed by an M.Tech Thesis and an intensive capstone project in the second.
 
 
-
+## Year 1
 ### Module 1
 The first module in this M.Tech in Data Science and Machine Learning program will familiarise you with Python for Data Science, SQL Database, and Statistical Methods for Decision Making
 
@@ -248,7 +248,7 @@ Real-time processing is a method to process data within a short period of time t
 
 
 
-### Year 2
+## Year 2
 #### Capstone Project
 #### M.Tech Thesis
 
