@@ -127,3 +127,77 @@ Tableau is the most widely used data visualization tool to solve problems. This 
 
 PowerBI is a business analytics tool by Microsoft, which is a collection of software services, apps, and connectors working together so that it can turn your unrelated sources of data into coherent, visually immersive, and interactive insights.
 
+
+
+### Module 3
+The third module in this M.Tech in Data Science and Machine Learning program will familiarise you with Machine Learning Classification and Unsupervised algorithms, Time Series, and Natural Language Processing.
+
+
+#### Machine Learning: Classification Algorithms
+In this M.Tech in Machine Learning course, you will learn everything about classification algorithms.
+* Logistic Regression
+
+Logistic Regression is one of the most popular ML algorithms, like Linear Regression. It is a simple classification algorithm to predict the categorical dependent variables with the assistance of independent variables. This module will drive you through all the concepts of Logistic Regression used in Machine Learning.
+* K-Nearest Neighbours
+
+KNN or k-Nearest Neighbours algorithm is one of the most straightforward machine learning algorithms for solving regression and classification problems. You will learn about using this algorithm like classification and KNN regression through this module.
+* Decision Trees
+
+Decision Tree is a Supervised Machine Learning algorithm used for both classification and regression problems. It is a hierarchical structure where internal nodes indicate the dataset features, branches represent the decision rules, and each leaf node indicates the result.
+* Ensemble Techniques
+
+This module discusses your supervised standalone models’ shortcomings and learns a few techniques, such as Ensemble techniques, to overcome these shortcomings.
+* Random Forest
+
+Random Forest is a popular supervised learning algorithm in machine learning. As the name indicates, it comprises several decision trees on the provided dataset’s several subsets. Then, it calculates the average for enhancing the dataset’s predictive accuracy.
+
+
+#### Machine Learning: Unsupervised Algorithms
+In this M.Tech in Machine Learning course, you will learn everything about unsupervised algorithms.
+* Clustering techniques
+
+Clustering is an unsupervised learning technique involving the grouping of data. In this module, you will learn everything you need to know about the method and its types, like K-means clustering and hierarchical clustering.
+* K-means algorithm
+
+K-means clustering is a popular unsupervised learning algorithm to resolve the clustering problems in Machine Learning or Data Science.
+* Dimensionality reduction
+
+Dimension Reduction transforms data from a high dimensional to low dimensional space without losing any vital information. This module will teach you how to work with various Dimension Reduction techniques in Machine Learning.
+* Recommender system
+
+As the name suggests, recommender systems help predict some products’ future preference and recommend the best-suited items to the user. In this module, you will learn how to use these systems to help people choose the best products.
+
+
+#### Time Series
+This module will teach you all the techniques involved in Time Series.
+* Moving average
+
+Moving Average is a technique to predict future value based on past values. In this module, you will learn how to work with the moving average approach.
+* Time series forecasting
+
+In this module, you will learn how to collect data and predict the future value of data focusing on its unique trends. This technique is known as Forecasting data.
+* Auto-correlation
+
+This module will teach you how to solve the problems of correlation.
+* ARIMA
+
+ARIMA stands for Auto Regression Integrated Moving Average and is used to forecast time series following a seasonal pattern and a trend. It has three key aspects, namely: Auto Regression (AR), Integration (I), and Moving Average (MA).
+
+
+#### Natural Language Processing
+The last topic in Module 3 of the M.Tech in Machine Learning course is Natural Language Processing (NLP). NLP applies computational linguistics to build real-world applications that work with languages comprising varying structures. We try to teach the computer to learn languages and then expect it to understand it with suitable, efficient algorithms. This module will drive you through the introduction to NLP and all the essential concepts you need to know.
+* Text Analytics - Basics
+
+In this module, you will learn how to convert unstructured text into a structured text to discover relevant insights. This method is known as Text Analytics, also called Text Mining.
+* Document summarization and classification
+
+In this module, you will learn about Text Classification and implementation Document summarization.
+* Web Scraping
+
+Web Scraping is the process of extracting data from the web. This module will teach you how to collect and parse data using Web Scraping.
+* Sequential Modelling
+
+A sequence, as the name suggests, is an ordered collection of several items. In this module, you will learn how to predict what letter or word appears using the Sequential model in NLP.
+* Transformers
+
+The main objective of Transformers in NLP is to solve sequence-to-sequence tasks while simultaneously handling the long-range dependencies conveniently.
